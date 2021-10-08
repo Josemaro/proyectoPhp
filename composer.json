@@ -1,0 +1,10 @@
+{
+    "name": "jose/curso",
+    "description": "Mi primer projecto",
+    "autoload": {
+        "psr-4": {
+            "Jose\\Curso\\": "src/"
+        }
+    },
+    "require": {}
+}
